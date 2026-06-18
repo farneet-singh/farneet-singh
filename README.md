@@ -25,7 +25,7 @@
 
 | Project Title | Description | Live | Repo |
 |---------------|-------------|-----------|-----------|
-| **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [![](https://skillicons.dev/icons?i=react)](https://company-wise-leetcode-farneet.netlify.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
+| **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [![](https://skillicons.dev/icons?i=react)](https://company-wise-leetcode-farneet.netlify.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet-singh/Leetcode-Company-Wise-Questions-Website) |
 
 <br>
 
@@ -48,8 +48,8 @@
 
 <div>
   
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
-[![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24)
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh/)
+[![](https://skillicons.dev/icons?i=github)](https://github.com/farneet-singh)
 [![](https://skillicons.dev/icons?i=webflow)](https://farneet-singh.webflow.io/)
 
 </div>
@@ -66,10 +66,10 @@
 ---
 
 ## GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=darkflowio&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=farneet-singh&label=Profile%20views&color=0e75b6&style=for-the-badge)
 <br>
-![Farneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkflowio&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkflowio&layout=compact&theme=radical&hide=jupyter%20notebook)
+![Farneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farneet-singh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farneet-singh&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
